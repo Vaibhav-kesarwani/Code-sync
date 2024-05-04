@@ -75,7 +75,7 @@ const Home = () => {
       <footer>
         <h4>
           Built with 💛 &nbsp; by &nbsp;
-          <a href="https://portfolio-murex-five-90.vercel.app/">
+          <a href="https://vaibhav-kesarwani.vercel.app/">
             Vaibhav kesarwani
           </a>
         </h4>
